@@ -1,2 +1,2 @@
-# kaggle
-Notebooks for Kaggle competitions
+# ML Notes
+Notebooks on machine learning
