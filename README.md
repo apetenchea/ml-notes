@@ -1,2 +1,1 @@
-# ML Notes
-Notebooks on machine learning
+ML stuff. Good to have around.
